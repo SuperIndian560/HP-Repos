@@ -1,7 +1,7 @@
 {
     "name": "Harshal's Piracy Repo",
     "identifier": "hp.indian.piracy",
-    "sourceURL": "https://github.com/SuperIndian560/HP-Repos/blob/main/HP.json",
+    "sourceURL": "https://raw.githubusercontent.com/SuperIndian560/HP-Repos/main/HP.json",
     "apps": [
         {
             "name": "Geometry Dash",
